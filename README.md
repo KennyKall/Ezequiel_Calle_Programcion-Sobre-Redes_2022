@@ -30,7 +30,7 @@ En este espacio se indicaran todos los trabajos que se haran a lo largo de la ma
 
 # Trabajos_practivos | | 2do_Cuatrimestre
 
-# Extras
+# Extras                                                                      ✒️
 >                                   Autores ✒️
 Agustín Mendez - Trabajo Completo - (https://github.com/AgustinMendez25)
 >                                   Profesor ✒️
