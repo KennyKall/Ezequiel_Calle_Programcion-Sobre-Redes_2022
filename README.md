@@ -1,9 +1,6 @@
 # Ezequiel_Calle_Programcion-Sobre-Redes_2022
 
-hola
-
-Título del Proyecto: Programación sobre redes 2022
-Trabajos prácticos correspondientes a la materia Programación sobre Redes de 6to año. Ciclo lectivo 2022.
+>Trabajos prácticos correspondientes a la materia Programación sobre Redes de 6to año. Ciclo lectivo 2022.
 
 Índice
 TP 1.0 I/0 Archivos
