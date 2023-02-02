@@ -1,6 +1,6 @@
 # Ezequiel_Calle_Programcion-Sobre-Redes_2022
 
->   .:| Trabajos Practicos |:| Progracaion sobre redes (2022) |:.
+>   .:| Trabajos Practicos | : | Progracaion sobre redes (2022) |:.
 
 Índice
 TP 1.0 I/0 Archivos
