@@ -1,8 +1,6 @@
 # Ezequiel_Calle_Programcion-Sobre-Redes_2022
 
->   .:_Trabajos Practicos_ // _Progracaion sobre redes(2022)_:.
-
-Trabajos prácticos correspondientes a la materia Programación sobre Redes de 6to año. Ciclo lectivo 2022.
+>   .:._|Trabajos Practicos|_ || _|Progracaion sobre redes(2022)|_.:.
 
 Índice
 TP 1.0 I/0 Archivos
