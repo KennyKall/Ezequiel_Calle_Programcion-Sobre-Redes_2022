@@ -4,7 +4,7 @@
 
 En este espacio se indicaran todos los trabajos que se haran a lo largo de la materia
 
- #Trabajos_practivos | | 1er_Cuatrimestre:.
+ # Trabajos_practivos | | 1er_Cuatrimestre
 
       TP 1.0 I/0 Archivos
       TP 1.0 I/0 Archivos 2
