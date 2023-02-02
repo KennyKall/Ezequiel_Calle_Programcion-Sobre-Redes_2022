@@ -1,6 +1,6 @@
 # Ezequiel_Calle_Programcion-Sobre-Redes_2022✒️
 
->                                   .:| Trabajos Practicos | : | Progracion sobre redes (2022) |:.
+>                                    .:| Trabajos Practicos | : | Progracion sobre redes (2022) |:.
 
 En este espacio se indicaran todos los trabajos que se haran a lo largo de la materia
 
@@ -27,7 +27,7 @@ En este espacio se indicaran todos los trabajos que se haran a lo largo de la ma
 # Trabajos_practivos | | 2do_Cuatrimestre  📃
 
 # Extras   📃
->          Autores ✒️: Calle Ezequiel-(Alias:Kenny) .: https://github.com/KennyKall/Ezequiel_Calle_Programcion-Sobre-Redes_2022.git :.
+> Autores ✒️: Calle Ezequiel-(Alias:Kenny) .: https://github.com/KennyKall/Ezequiel_Calle_Programcion-Sobre-Redes_2022.git :.
 
 >                                   Profesor ✒️
 Gonzalo Consorti *
