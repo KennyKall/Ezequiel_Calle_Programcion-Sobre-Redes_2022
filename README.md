@@ -29,5 +29,5 @@ En este espacio se indicaran todos los trabajos que se haran a lo largo de la ma
 # Extras   📃
 >  Autores ✒️: Calle Ezequiel-(Alias:Kenny) .: https://github.com/KennyKall/Ezequiel_Calle_Programcion-Sobre-Redes_2022.git :.
 
->                                                         Profesor:  Gonzalo Consorti  ✒️
+>                                                 Profesor:  Gonzalo Consorti  ✒️
 
