@@ -17,7 +17,7 @@ En este espacio se indicaran todos los trabajos que se haran a lo largo de la ma
 >.:Link: :.
 
 >TP 1.0 I/0 Archivos 2
->Este proyecto consta en la realización de la 3ra consigna del TP. Se leen los datos guardados en el punto 1 (vector y archivo de texto) y posteriormente se alteran >para >ser guardados en un nuevo archivo.
+>Este proyecto consta en la realización de la 3ra consigna del TP. Se leen los datos guardados en el punto 1 (vector y archivo de texto) y posteriormente se alteran >para ser guardados en un nuevo archivo.
 >.:Link: :.
 
 >Guia 1.0 Flujo de datos
@@ -27,6 +27,8 @@ En este espacio se indicaran todos los trabajos que se haran a lo largo de la ma
 >TP 1.1 IO Entradas de datos
 >Se realiza el TP de práctica de entrada de datos, en el cual se solicita crear un programa donde el usuario ingrese una operación (+ - * /) y se realice la cuenta. Se >utiliza un while para que el usuario ingrese infinitamente operaciones hasta que desee salir.
 >.:Link: :.
+
+# Trabajos_practivos | | 2do_Cuatrimestre
 
 Autores ✒️
 Agustín Mendez - Trabajo Completo - (https://github.com/AgustinMendez25)
