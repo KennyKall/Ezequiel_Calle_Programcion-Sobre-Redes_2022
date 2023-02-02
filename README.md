@@ -2,6 +2,8 @@
 
 >                                   .:| Trabajos Practicos | : | Progracaion sobre redes (2022) |:.
 
+En este espacio se indicaran todos los trabajos que se haran a lo largo de la materia
+
 Índice
 TP 1.0 I/0 Archivos
 TP 1.0 I/0 Archivos 2
