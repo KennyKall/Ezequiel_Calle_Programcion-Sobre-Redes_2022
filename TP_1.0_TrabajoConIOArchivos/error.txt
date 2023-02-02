@@ -1,0 +1,3 @@
+abr 11, 2022 1:22:02 PM flujoDeDatos.Punto2 operacionDelVector
+GRAVE: Error formateado por el logger
+Error: 0 / 0 = error
