@@ -16,8 +16,7 @@ En este espacio se indicaran todos los trabajos que se haran a lo largo de la ma
 >.:Link: https://github.com/KennyKall/Ezequiel_Calle_Programcion-Sobre-Redes_2022.git :.
 
 >TP 1.0 I/0 Archivos
->Este proyecto consta en la realización de 2 consignas, las cuales solicitan ingresar datos numéricos y guardarlos en memoria volátil y no volátil. Posteriormente se leen
->los datos guardados y se alteran generando un nuevo resultado.
+>Este proyecto consta en la realización de 2 consignas, las cuales solicitan ingresar datos numéricos y guardarlos en memoria volátil y no volátil. Posteriormente se leen, los datos guardados y se alteran generando un nuevo resultado.
 >.:Link: https://github.com/KennyKall/Ezequiel_Calle_Programcion-Sobre-Redes_2022.git :.
 
 >TP 1.0 I/0 Archivos 2
