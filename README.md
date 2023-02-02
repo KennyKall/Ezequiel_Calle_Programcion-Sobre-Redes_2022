@@ -5,7 +5,7 @@
 En este espacio se indicaran todos los trabajos que se haran a lo largo de la materia, en mi caso yo estoy completando este sector en el periodo de Diciembre-Febrero 
 
  # Trabajos_practicos | | 1er_Cuatrimestre  📃
-
+-----------------------------------------------------------------------------------------------------------------------
       Guia 1.0 Flujo de datos
       TP 1.0 I/0 Archivos
       TP 1.0 I/0 Archivos 2
