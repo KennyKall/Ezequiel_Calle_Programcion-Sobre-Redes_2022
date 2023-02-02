@@ -5,10 +5,11 @@
 En este espacio se indicaran todos los trabajos que se haran a lo largo de la materia
 
  .:Trabajos_practivos | | 1er_Cuatrimestre:.
-TP 1.0 I/0 Archivos
-TP 1.0 I/0 Archivos 2
-Guia 1.0 Flujo de datos
-TP 1.1 IO Entradas de datos
+
+      TP 1.0 I/0 Archivos
+      TP 1.0 I/0 Archivos 2
+      Guia 1.0 Flujo de datos
+      TP 1.1 IO Entradas de datos
 
 >TP 1.0 I/0 Archivos
 >Este proyecto consta en la realización de 2 consignas, las cuales solicitan ingresar datos numéricos y guardarlos en memoria volátil y no volátil. Posteriormente se leen
