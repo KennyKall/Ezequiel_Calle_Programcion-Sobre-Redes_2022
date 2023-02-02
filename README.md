@@ -12,8 +12,8 @@ En este espacio se indicaran todos los trabajos que se haran a lo largo de la ma
       TP 1.1 IO Entradas de datos
 
 >Guia 1.0 Flujo de datos
->Se realiza la guía correspondiente al flujo de datos, en la cual se solicitan diversos ejercicios de práctica a fin de utilizar distintas clases (reader, system, >entre otros) para leer y escribir archivos.
->.:Link: :.
+>Se realiza la guía correspondiente al flujo de datos, en la cual se solicitan diversos ejercicios de práctica a fin de utilizar distintas clases (reader, system, entre otros) para leer y escribir archivos.
+>.:Link:https://github.com/KennyKall/Ezequiel_Calle_Programcion-Sobre-Redes_2022.git:.
 
 >TP 1.0 I/0 Archivos
 >Este proyecto consta en la realización de 2 consignas, las cuales solicitan ingresar datos numéricos y guardarlos en memoria volátil y no volátil. Posteriormente se leen
