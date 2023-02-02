@@ -1,11 +1,11 @@
 # Ezequiel_Calle_Programcion-Sobre-Redes_2022
 
->                                   .:| Trabajos Practicos | : | Progracaion sobre redes (2022) |:.
+>                                   .:| Trabajos Practicos | : | Progracion sobre redes (2022) |:.
 
 En este espacio se indicaran todos los trabajos que se haran a lo largo de la materia
 
- ->Índice
-[TP 1.0 I/0 Archivos]
+ .:Trabajos_practivos | | 1er_Cuatrimestre:.
+TP 1.0 I/0 Archivos
 TP 1.0 I/0 Archivos 2
 Guia 1.0 Flujo de datos
 TP 1.1 IO Entradas de datos
