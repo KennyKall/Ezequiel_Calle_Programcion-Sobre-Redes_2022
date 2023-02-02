@@ -27,6 +27,11 @@ para ser guardados en un nuevo archivo.
 
 # Trabajos_practicos | | 2do_Cuatrimestre  📃
 
+      TP 2.0 File Binary
+      TP 2.1 Binario
+      TP 3 Manejo de DB + Patrones de Diseño
+
+
 # Extras   📃
 >  Autores ✒️: Calle Ezequiel-(Alias:Kenny) .: https://github.com/KennyKall/Ezequiel_Calle_Programcion-Sobre-Redes_2022.git :.
 
