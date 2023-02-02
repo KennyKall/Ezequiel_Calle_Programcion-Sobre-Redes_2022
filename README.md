@@ -22,7 +22,7 @@ En este espacio se indicaran todos los trabajos que se haran a lo largo de la ma
 para ser guardados en un nuevo archivo.
 
 >TP 1.1 IO Entradas de datos
->Se realiza el TP de práctica de entrada de datos, en el cual se solicita crear un programa donde el usuario ingrese una operación (+ - * /) y se realice la cuenta. Se >utiliza un while para que el usuario ingrese infinitamente operaciones hasta que desee salir.
+>Se realiza el TP de práctica de entrada de datos, en el cual se solicita crear un programa donde el usuario ingrese una operación (+ - * /) y se realice la cuenta. Se utiliza un while para que el usuario ingrese infinitamente operaciones hasta que desee salir.
 
 
 # Trabajos_practicos | | 2do_Cuatrimestre  📃
