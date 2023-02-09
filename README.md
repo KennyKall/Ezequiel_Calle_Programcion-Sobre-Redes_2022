@@ -34,7 +34,7 @@ para ser guardados en un nuevo archivo.
 -----------------------------------------------------------------------------------------------------------------------
 # Examen | | Periodo de Diciembre - Febrero  📃
 -----------------------------------------------------------------------------------------------------------------------
-> Nada de momento
+> Recuperatorio: Examen1-FILES--Calle_Ezequiel
 -----------------------------------------------------------------------------------------------------------------------
 # Extras   📃
 >  Autores ✒️: Calle Ezequiel-(Alias:Kenny) .: https://github.com/KennyKall/Ezequiel_Calle_Programcion-Sobre-Redes_2022.git :.
